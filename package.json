@@ -1,0 +1,27 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "We are building a compability-based application that differentiates a user's manual input of data then it compares it with our own personal database that we create. This then helps them find the best match of a friend! The app will then display the name and picture of the user with the best overall match with our algorithm!",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^14.5.0",
+    "package.json": "^2.0.1",
+    "start": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BurberryBran/friend-finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BurberryBran/friend-finder/issues"
+  },
+  "homepage": "https://github.com/BurberryBran/friend-finder#readme"
+}
